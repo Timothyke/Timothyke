@@ -12,13 +12,13 @@ I’m Timothy maina, a passionate developer, cybersecurity enthusiast 🔐, and 
 
 ---
 
-### 🌟 Projects I'm Proud Of
+### 🌟 Projects I'm Proud Of:
 - **[Nature-Hub](https://github.com/Timothyke/Nature-Hub)** 🌿: A platform promoting nature conservation and environmental education.
 - **[Supreme Octo Bassoon](https://github.com/Timothyke/supreme-octo-bassoon)** 🐙🔐: My cybersecurity passion project.
 
 ---
 
-### 🎨 Let's Get Creative!
+### 🎨 Let's Get Creative!.
 - 🚧 Always exploring and learning something new.
 - 🤝 Open to collaboration on projects, especially in **cybersecurity**, **web development**, and **nature tech**.
 
