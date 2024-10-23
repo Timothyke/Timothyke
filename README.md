@@ -1,6 +1,6 @@
 Hi there! 👋 Welcome to my GitHub profile!
 
-I’m Timothy maina, a passionate developer, cybersecurity enthusiast 🔐, and nature lover 🌿 based in Kenya 🇰🇪. My work revolves around creativity 💡, technology 💻, and environmental consciousness 🌍.
+I’m Timothy maina, a passionate developer, cybersecurity enthusiast 🔐, and nature lover 🌿 based in Kenya. My work revolves around creativity 💡, technology 💻, and environmental consciousness 🌍.
 
 ---
 
