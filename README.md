@@ -31,7 +31,7 @@ class CyberTimothy:
         
     def contact(self):
         return {
-            'email': "⎈⎈⎈⎈⎈⎈⎈⎈⎈⎈⎈⎈⎈",  # Encrypted
+            'email': "⎈⎈⎈⎈⎈⎈⎈⎈⎈⎈⎈⎈",  # Encrypted
             'matrix': "@timothyke:cyber.dimension"
         }
 ```
