@@ -44,7 +44,7 @@ class CyberTimothy:
 |---------|--------|------------|---------------|
 | **Supreme Octo** | `ACTIVE` | ![Python](https://img.shields.io/badge/PYTHON_3.12-3776AB?logo=python) ![Crypto](https://img.shields.io/badge/CRYPTOv2-000000?logo=bitcoin) | ♻️♻️♻️♻️ |
 | **Nature-Hub** | `LIVE` | ![IoT](https://img.shields.io/badge/IOT_EDGE-00AA00?logo=raspberry-pi) ![AI](https://img.shields.io/badge/NEURAL_NET-FF6F00?logo=tensorflow) | ♻️♻️♻️♻️♻️ |
-| **EcoDNS** | `BETA` | ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN_4.0-F16822?logo=ethereum) ![GreenCloud](https://img.shields.io/badge/HOSTING_100%_GREEN-00AA00?logo=digitalocean) | ♻️♻️♻️♻️ |
+| **EcoDNS** | `BETA` | ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN_4.0-F16822?logo=ethereum) |
 
 </div>
 
