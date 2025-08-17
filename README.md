@@ -30,3 +30,10 @@ class CyberTimothy:
 
     def mission(self):
         return "Building ethical, eco-conscious AI & cyber systems"
+
+
+graph LR
+    A[Quantum Computing ⚛️] --> B[Neural Security 🛡️]
+    C[Biomimetic Code 🧬] --> D[Eco-Conscious AI 🌱]
+    B --> E[Cyber-Physical Systems ⚡]
+    D --> E
