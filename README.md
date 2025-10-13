@@ -31,18 +31,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Marketing](https://img.shields.io/badge/Marketing_AI-FF1493?style=for-the-badge&logo=googleanalytics&logoColor=white)
+<!-- GitHub Stats -->
+![Timothyke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF00FF)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF)
+
+<!-- GitHub Streak (Updated Domain) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Timothyke&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF00FF&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41)
+
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Timothyke&bg_color=0d1117&color=00FF41&line=FF00FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
