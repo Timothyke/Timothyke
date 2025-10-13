@@ -17,8 +17,8 @@
 
 ## 🧠 About Me
 
-> I’m a **Cybersecurity & AI Developer** passionate about blending **secure systems**, **creative automation**, and **eco-conscious technology**.  
-> I also specialize in **Digital Marketing** — crafting futuristic strategies that merge **data, design, and storytelling.**
+> I’m a **Cybersecurity & AI Developer** passionate about blending **secure systems**, **creative automation**, and **eco-conscious innovation**.  
+> I also specialize in **Digital Marketing** — building futuristic strategies that merge **data, design, and storytelling.**
 
 - 💻 Cybersecurity & Ethical Hacking  
 - 🧩 AI, Automation & Quantum Concepts  
@@ -31,16 +31,13 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![Timothyke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF00FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF00FF)
 
-<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF)
 
-<!-- GitHub Streak (Updated Domain) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Timothyke&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF00FF&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41)
+<!-- ✅ Fixed Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Timothyke&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF00FF&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41)
 
-<!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Timothyke&bg_color=0d1117&color=00FF41&line=FF00FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
@@ -62,13 +59,13 @@
 
 <div align="center">
 
-![Timothyke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF00FF)
+![Stats](https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF&icon_color=FF00FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Timothyke&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF00FF&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41)
+![Streak](https://streak-stats.demolab.com?user=Timothyke&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF00FF&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Timothyke&bg_color=0d1117&color=00FF41&line=FF00FF&point=FFFFFF&area=true&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Timothyke&bg_color=0d1117&color=00FF41&line=FF00FF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -96,5 +93,3 @@
 
 > <span style="font-family: 'Courier New', monospace; color: #00FF41">"Secure. Creative. Conscious — the future belongs to those who merge art and intelligence."</span>  
 > <span style="font-family: 'Courier New', monospace; color: #FF00FF">— Timothy Kageni</span>
-
----
