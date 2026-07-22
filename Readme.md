@@ -14,7 +14,7 @@
 
 # 🚀 Current Mission
 
-I'm a self-taught developer obsessed with building useful software.
+I'm a self-taught developer obsessed with building useful software and personalised AI LLMs.
 
 Right now I'm focused on combining **Full-Stack Development** with **Large Language Models** to create AI tools that automate work, improve businesses, and feel genuinely useful.
 
