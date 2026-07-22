@@ -8,6 +8,11 @@
 
 > *"I don't just write code. I build products that solve real problems."*
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Timothyke&label=Profile%20Views&color=0ff&style=flat" />
+<img src="https://img.shields.io/github/followers/Timothyke?label=Followers&style=social" />
+
 </div>
 
 ---
@@ -45,13 +50,14 @@ Instead of collecting tutorials, I learn by shipping projects.
 </p>
 
 ### AI
-- LangGraph
-- Gemini API
-- LangSmith
-- Prompt Engineering
-- AI Agents
-- MCP
-- RAG (Learning)
+<p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/LangSmith-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00A3E0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
+</p>
 
 ### Networking & Infrastructure
 <p>
@@ -71,53 +77,75 @@ Instead of collecting tutorials, I learn by shipping projects.
 
 # 🌟 Featured Projects
 
-## 🤖 MainAI
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 MainAI
 An AI assistant built with
-> TypeScript • LangGraph • Gemini • Express • Supabase
+**TypeScript • LangGraph • Gemini • Express • Supabase**
 
-**Features**
-- AI conversations
-- Long-term memory
+- AI conversations with long-term memory
 - LangSmith tracing
-- Beautiful modern UI
-- Render deployment
+- Distinctive "savanna at golden hour" UI
+- Deployed on Render
 
----
+</td>
+<td width="50%">
 
-## 🖨 Imprint Studios
-A premium printing & branding website for a Nairobi business.
+### 🖨 Imprint Studios
+Printing & branding site for a Nairobi business
 
-**Highlights**
-- Scroll animations
-- Responsive UI
-- Form validation
-- Performance optimized
+- Scroll-reveal animations
+- Touch-friendly responsive carousel
+- Full form validation
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 💻 Tech Hub Digital
-Modern digital agency website featuring
-- Glassmorphism
-- Dark UI
-- Shopify Services
-- SEO Optimization
+### 💻 Tech Hub Digital
+Digital agency site for a Nairobi tech studio
 
----
+- Glassmorphism, dark UI
+- Shopify & branding services
+- SEO optimized
 
-## 👕 Threads of Kaos™
-Luxury streetwear ecommerce experience currently being transformed into a complete Shopify OS 2.0 Theme.
+</td>
+<td width="50%">
 
----
+### 👕 Threads of Kaos™
+Luxury streetwear ecommerce
 
-## 🚗 DriveKenya
-Car hire platform with an Express/Node.js backend, SQLite database, booking API, and admin panel.
+- Custom cursor, cart sidebar, quick-view modals
+- Being converted to Shopify OS 2.0
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 DriveKenya
+Car hire platform
+
+- Express/Node.js backend
+- SQLite database + booking API
+- Admin panel
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Timothyke&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Timothyke&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -161,18 +189,16 @@ while (alive) {
 # 🌍 Let's Connect
 
 <p>
-<a href="mailto:your@email.com">
+<a href="mailto:timothymaina030@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Timothyke">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/timothy-kageni">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
-
----
 
 <div align="center">
 
@@ -180,5 +206,7 @@ while (alive) {
 Most of my skills came from building projects that broke... then fixing them.
 
 ⭐ Thanks for stopping by.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 
 </div>
