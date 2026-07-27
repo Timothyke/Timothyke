@@ -37,7 +37,7 @@ Instead of collecting tutorials, I learn by shipping projects.
 
 ---
 
-# 🛠 Tech Arsenal
+# 🛠 Tech Stacks
 
 ### Languages & Frameworks
 <p>
