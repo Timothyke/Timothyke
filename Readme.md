@@ -19,11 +19,9 @@
 
 # 🚀 Current Mission
 
-I'm a self-taught developer obsessed with building useful software and personalised AI LLMs.
+I'm a developer obsessed with building useful software and personalised AI LLMs.
 
-Right now I'm focused on combining **Full-Stack Development** with **Large Language Models** to create AI tools that automate work, improve businesses, and feel genuinely useful.
-
-Instead of collecting tutorials, I learn by shipping projects.
+Right now I'm focused on combining **Full-Stack Development** with **Large Language Models** to create AI tools that automate work.
 
 ---
 
@@ -93,7 +91,7 @@ An AI assistant built with
 </td>
 <td width="50%">
 
-### 🖨 Imprint Studios
+### 🖨Nairobi Printing Studios
 Printing & branding site for a Nairobi business
 
 - Scroll-reveal animations
