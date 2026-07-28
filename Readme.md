@@ -215,7 +215,7 @@ while (alive) {
 <div align="center">
 
 ### ⚡ Fun Fact
-Most of my skills came from building projects that broke... then fixing them (and a few computers along the way).
+Most of my skills came from building projects that broke... then fixing them.
 
 ⭐ Thanks for stopping by.
 
