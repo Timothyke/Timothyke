@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Timothy%20Maina&fontSize=50&fontColor=00E7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Nairobi%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1200&color=00E7FF&center=true&vCenter=true&width=700&lines=Building+AI+Agents.;Creating+Products+People+Actually+Use.;Turning+Ideas+into+Code.;Shipping+One+Project+at+a+Time." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1200&color=00E7FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents.;Exploring+Quantum+AI+Research.;Securing+Systems+with+Kali+Linux.;Creating+Products+People+Actually+Use.;Shipping+One+Project+at+a+Time." />
 
 <br>
 
@@ -19,9 +19,9 @@
 
 # 🚀 Current Mission
 
-I'm a developer obsessed with building useful software and personalised AI LLMs.
+I'm a developer obsessed with building useful software, personalized AI/LLM tools, and understanding what comes next in computing — from full-stack apps to quantum AI research.
 
-Right now I'm focused on combining **Full-Stack Development** with **Large Language Models** to create AI tools that automate work.
+Right now I'm focused on combining **Full-Stack Development**, **Large Language Models**, and **Systems/Security** work to build tools that automate work, fix real machines, and push into emerging AI frontiers.
 
 ---
 
@@ -32,6 +32,8 @@ Right now I'm focused on combining **Full-Stack Development** with **Large Langu
 - 🏢 Software for Nairobi Businesses
 - 🛍 Shopify Experiences
 - 🤖 AI Automations
+- 🔐 Security tooling & pentesting practice on Kali Linux
+- ⚛️ Quantum AI research explorations
 
 ---
 
@@ -47,7 +49,7 @@ Right now I'm focused on combining **Full-Stack Development** with **Large Langu
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite,firebase" />
 </p>
 
-### AI
+### AI & Quantum AI Research
 <p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -55,6 +57,15 @@ Right now I'm focused on combining **Full-Stack Development** with **Large Langu
 <img src="https://img.shields.io/badge/Prompt%20Engineering-00A3E0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Quantum%20AI%20Research-6C3AC1?style=for-the-badge&logo=qiskit&logoColor=white" />
+</p>
+
+### Security & Systems
+<p>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Computer%20Repair%20%26%20Maintenance-4B4B4B?style=for-the-badge&logo=tools&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Security-D7263D?style=for-the-badge" />
 </p>
 
 ### Networking & Infrastructure
@@ -91,7 +102,7 @@ An AI assistant built with
 </td>
 <td width="50%">
 
-### 🖨Nairobi Printing Studios
+### 🖨 Nairobi Printing Studios
 Printing & branding site for a Nairobi business
 
 - Scroll-reveal animations
@@ -134,6 +145,7 @@ Car hire platform
 </td>
 <td width="50%">
 
+
 </td>
 </tr>
 </table>
@@ -168,6 +180,8 @@ Car hire platform
 - 🌍 Contribute to Open Source
 - 📚 Master System Design
 - 🤖 Become an AI Engineer
+- ⚛️ Go deeper into Quantum AI research
+- 🔐 Level up offensive/defensive security skills with Kali Linux
 
 ---
 
@@ -201,7 +215,7 @@ while (alive) {
 <div align="center">
 
 ### ⚡ Fun Fact
-Most of my skills came from building projects that broke... then fixing them.
+Most of my skills came from building projects that broke... then fixing them (and a few computers along the way).
 
 ⭐ Thanks for stopping by.
 
