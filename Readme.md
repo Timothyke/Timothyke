@@ -51,21 +51,24 @@ Right now I'm focused on combining **Full-Stack Development**, **Large Language 
 
 ### AI & Quantum AI Research
 <p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://cdn.simpleicons.org/qiskit/6929C4" height="48" alt="Qiskit / Quantum AI Research" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/LangSmith-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-00A3E0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Quantum%20AI%20Research-6C3AC1?style=for-the-badge&logo=qiskit&logoColor=white" />
 </p>
 
 ### Security & Systems
 <p>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Computer%20Repair%20%26%20Maintenance-4B4B4B?style=for-the-badge&logo=tools&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Security-D7263D?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="48" alt="Kali Linux" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Computer%20Repair%20%26%20Maintenance-4B4B4B?style=flat-square" />
 </p>
 
 ### Networking & Infrastructure
@@ -78,7 +81,7 @@ Right now I'm focused on combining **Full-Stack Development**, **Large Language 
 
 ### Design & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,cloudflare" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,cloudflare,wordpress" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
@@ -124,11 +127,12 @@ Digital agency site for a Nairobi tech studio
 </td>
 <td width="50%">
 
-### 👕 Threads of Kaos™
-Luxury streetwear ecommerce
+### 🛒 Techaccessories
+Ecommerce site built on WordPress
 
-- Custom cursor, cart sidebar, quick-view modals
-- Being converted to Shopify OS 2.0
+- Product catalog & storefront on WordPress
+- Debugged and repaired for a live client
+- First hands-on WordPress build
 
 </td>
 </tr>
@@ -143,10 +147,7 @@ Car hire platform
 - Admin panel
 
 </td>
-<td width="50%">
-
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
