@@ -19,7 +19,7 @@
 
 # 🚀 Current Mission
 
-I'm a developer obsessed with building useful software, personalized AI/LLM tools, and understanding what comes next in computing — from full-stack apps to quantum AI research.
+I'm a developer obsessed with building useful software, personalized AI/LLM tools, and understanding what comes next in computing - from full-stack apps to quantum AI research.
 
 Right now I'm focused on combining **Full-Stack Development**, **Large Language Models**, and **Systems/Security** work to build tools that automate work, fix real machines, and push into emerging AI frontiers.
 
