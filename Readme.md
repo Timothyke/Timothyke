@@ -8,10 +8,10 @@
 
 <table>
 <tr>
-<td align="center"><b>STATUS</b><br/>🟢 Building</td>
-<td align="center"><b>FOCUS</b><br/>AI Agents + Full-Stack</td>
-<td align="center"><b>LOCATION</b><br/>Nairobi, Kenya 🇰🇪</td>
-<td align="center"><b>NEXT</b><br/>SaaS Products</td>
+<td align="center">🟢<br/><b>Building</b></td>
+<td align="center">🎯<br/><b>AI Agents + Full-Stack</b></td>
+<td align="center">📍<br/><b>Nairobi, Kenya</b></td>
+<td align="center">🚀<br/><b>SaaS, next</b></td>
 </tr>
 </table>
 
@@ -25,12 +25,11 @@
 <br/>
 
 <a href="#-about-timothy">About</a> ·
-<a href="#️-tech-matrix">Tech Matrix</a> ·
 <a href="#-project-archive">Projects</a> ·
 <a href="#-ai-research-log">Research</a> ·
 <a href="#-github-telemetry">GitHub Telemetry</a> ·
 <a href="#-mission-roadmap-2026">Roadmap</a> ·
-<a href="#-transmission-channel">Contact</a>
+<a href="#-lets-connect">Connect</a>
 
 </div>
 
@@ -38,17 +37,16 @@
 
 ## 👤 About Timothy
 
-I'm a full-stack developer turned AI engineer, based in Nairobi. I started with HTML/CSS/JS, Node.js/Express, and Python/Django - building real sites for real Nairobi businesses - and most of what I know came from that hands-on work (and the bugs that came with it). From there I moved into AI engineering: agent workflows, LLM-powered apps, and automation built on top of that full-stack foundation.
+I'm a full-stack developer turned AI engineer, based in Nairobi. I started by building real sites for real Nairobi businesses, and most of what I know came from that hands-on work (and the bugs that came with it). From there I moved into AI engineering - agent workflows, LLM-powered apps, and automation built on top of that foundation.
 
 <table>
 <tr><td width="50%" valign="top">
 
 **Currently learning**
-- Agentic AI workflows (LangGraph, LangSmith)
+- Agentic AI workflows and multi-step LLM pipelines
 - Practical RAG and prompt engineering
 - System design for production AI apps
 - Ethical, authorized security lab practice
-- Networking & infrastructure fundamentals
 - Quantum computing / Quantum AI (early research)
 
 </td><td width="50%" valign="top">
@@ -72,58 +70,6 @@ Working toward launching my own SaaS products, contributing to open source, and 
 
 <br/>
 
-## 🛠️ Tech Matrix
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,sqlite&theme=dark" />
-
-**Design & Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,cloudflare,wordpress&theme=dark" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
-
-**AI Engineering**
-<br/>
-<img src="https://img.shields.io/badge/LangGraph-0B1020?style=flat-square&logo=langchain&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/LangSmith-0B1020?style=flat-square&logo=langchain&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Gemini-0B1020?style=flat-square&logo=googlegemini&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/RAG-0B1020?style=flat-square&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/MCP-0B1020?style=flat-square&logoColor=00E5FF" />
-
-**Security & Networking**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Fibre%20Optics-FF6B00?style=flat-square" />
-
-**Quantum AI (exploring)**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🚀 Project Archive
 
 <table>
@@ -131,14 +77,7 @@ Working toward launching my own SaaS products, contributing to open source, and 
 <td width="50%" valign="top">
 
 ### 🤖 MainAI
-AI assistant built around modern agent workflows.
-
-`TypeScript` `LangGraph` `Gemini` `Express` `Supabase`
-
-- Long-term conversational memory
-- Agent workflows + LangSmith tracing
-- Custom "Savanna at Golden Hour" interface
-- Cloud deployment
+AI assistant built around modern agent workflows, with long-term conversational memory, agent tracing, and a custom "Savanna at Golden Hour" interface.
 
 **Status:** `IN PROGRESS`
 <!-- ADD MAINAI REPO/DEMO LINK HERE -->
@@ -147,11 +86,7 @@ AI assistant built around modern agent workflows.
 <td width="50%" valign="top">
 
 ### 🖨️ Nairobi Printing Studios
-Digital platform for a Nairobi printing & branding business.
-
-- Responsive design, scroll-reveal animations
-- Touch-friendly carousel
-- Form validation, service-focused UX
+Digital platform for a Nairobi printing & branding business - responsive design, scroll-reveal animations, touch-friendly carousel, form validation.
 
 **Status:** `LIVE`
 <!-- ADD REPO/DEMO LINK HERE -->
@@ -162,11 +97,7 @@ Digital platform for a Nairobi printing & branding business.
 <td width="50%" valign="top">
 
 ### 💻 Tech Hub Digital
-Digital-agency experience built around modern web design.
-
-- Dark glassmorphism UI
-- Branding & digital services
-- SEO-focused, responsive structure
+Digital-agency experience built around modern web design - dark glassmorphism UI, SEO-focused, fully responsive.
 
 **Status:** `LIVE`
 <!-- ADD REPO/DEMO LINK HERE -->
@@ -175,11 +106,7 @@ Digital-agency experience built around modern web design.
 <td width="50%" valign="top">
 
 ### 🛒 Techaccessories
-WordPress ecommerce project built and improved for a live business.
-
-- Product catalog & storefront management
-- WordPress customization
-- Debugging and repair on a live client site
+WordPress ecommerce project built and improved for a live business - product catalog, storefront management, debugging and repair.
 
 **Status:** `LIVE`
 <!-- ADD REPO/DEMO LINK HERE -->
@@ -190,13 +117,7 @@ WordPress ecommerce project built and improved for a live business.
 <td width="50%" valign="top">
 
 ### 🚗 DriveKenya
-Car-hire platform with a backend booking workflow.
-
-`Node.js` `Express` `SQLite`
-
-- Booking API + database integration
-- Admin functionality
-- Structured backend architecture
+Car-hire platform with a backend booking workflow - booking API, database integration, admin functionality.
 
 **Status:** `IN PROGRESS`
 <!-- ADD REPO/DEMO LINK HERE -->
@@ -205,11 +126,7 @@ Car-hire platform with a backend booking workflow.
 <td width="50%" valign="top">
 
 ### 🧠 Next Build
-Currently experimenting with:
-
-- AI agents & business automation
-- SaaS products
-- Intelligent, LLM-powered workflows
+Currently experimenting with AI agents, business automation, SaaS products, and intelligent LLM-powered workflows.
 
 **Status:** `EXPLORING`
 
@@ -223,9 +140,9 @@ Currently experimenting with:
 
 | Area | Focus | Stage |
 |---|---|---|
-| Agentic AI | Multi-step agent workflows with LangGraph, traced via LangSmith | Building |
-| Cybersecurity | Ethical security learning, authorized lab practice with Kali Linux | Learning |
-| Quantum AI | Quantum computing concepts and Qiskit | Early research |
+| Agentic AI | Multi-step agent workflows, traced and evaluated | Building |
+| Cybersecurity | Ethical security learning, authorized lab practice | Learning |
+| Quantum AI | Quantum computing concepts and early experimentation | Early research |
 
 <br/>
 
@@ -260,7 +177,7 @@ Web Dev → Full-Stack → AI Applications → AI Agents → SaaS & Advanced Sys
 
 | Track | Status | Details |
 |---|---|---|
-| AI Engineering | 🟡 In Progress | ✅ Built production-ready AI agents · ⬜ Deepen RAG / multi-agent design · ⬜ Open-source AI tooling |
+| AI Engineering | 🟡 In Progress | ✅ Built production-ready AI agents · ⬜ Deepen multi-agent design · ⬜ Open-source AI tooling |
 | SaaS Development | 🔵 Next | ⬜ Launch a useful SaaS product · ⬜ Iterate on real user feedback |
 | System Design | 🟡 In Progress | ⬜ Strengthen system-design fundamentals |
 | Open Source | 🔵 Next | ⬜ Contribute to open-source projects |
@@ -286,7 +203,7 @@ mission();
 
 <br/>
 
-## 📡 Transmission Channel
+## 🤝 Let's Connect
 
 <div align="center">
 
