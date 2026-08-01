@@ -1,351 +1,275 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1020,100:00E5FF&height=230&section=header&text=Timothy%20Maina&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1020,100:00E5FF&height=220&section=header&text=Timothy%20Maina&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+AI+agents+and+full-stack+products.;Exploring+LangGraph%2C+RAG%2C+and+LLM+workflows.;Learning+security%2C+networking%2C+and+quantum+AI.;Learning+by+building.+Improving+by+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+AI+agents+and+full-stack+products.;Exploring+LangGraph%2C+RAG%2C+and+LLM+workflows.;Learning+security%2C+networking%2C+and+quantum+AI.;Learning+by+building.+Improving+by+shipping." />
 
 <br/>
 
-<a href="https://github.com/Timothyke">
-  <img src="https://komarev.com/ghpvc/?username=Timothyke&label=PROFILE+VIEWS&color=00E5FF&style=flat-square&base=0001" alt="Profile views"/>
-</a>
+<table>
+<tr>
+<td align="center"><b>STATUS</b><br/>🟢 Building</td>
+<td align="center"><b>FOCUS</b><br/>AI Agents + Full-Stack</td>
+<td align="center"><b>LOCATION</b><br/>Nairobi, Kenya 🇰🇪</td>
+<td align="center"><b>NEXT</b><br/>SaaS Products</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=Timothyke&label=PROFILE+VIEWS&color=00E5FF&style=flat-square&base=0001" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Timothyke?label=FOLLOWERS&style=flat-square&color=00E5FF&labelColor=050816" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=flat-square&labelColor=050816" alt="Status"/>
 
 <br/><br/>
 
 > ### "I don't just write code. I build useful products, intelligent systems, and solutions to real problems."
 
+<br/>
+
+<a href="#-about-timothy">About</a> ·
+<a href="#️-tech-matrix">Tech Matrix</a> ·
+<a href="#-project-archive">Projects</a> ·
+<a href="#-ai-research-log">Research</a> ·
+<a href="#-github-telemetry">GitHub Telemetry</a> ·
+<a href="#-mission-roadmap-2026">Roadmap</a> ·
+<a href="#-transmission-channel">Contact</a>
+
 </div>
 
----
-
-## 🧭 `NAVIGATION`
-
-<div align="center">
-
-[About](#-about-timothy) · [Status](#-live_build_status) · [Tech Matrix](#️-tech_matrix) · [Projects](#-project_archive) · [Research](#-ai_research_log) · [GitHub Telemetry](#-github_telemetry) · [Roadmap](#-mission_roadmap_2026) · [Contact](#-transmission_channel)
-
-</div>
-
----
-
-## 📡 `LIVE_BUILD_STATUS`
-
-```yaml
-STATUS:    ONLINE
-MODE:      BUILDING
-FOCUS:     AI AGENTS + FULL-STACK DEVELOPMENT
-LOCATION:  NAIROBI, KENYA 🇰🇪
-NEXT:      SAAS PRODUCTS
-```
-
----
-
-## 👤 `ABOUT TIMOTHY`
-
-<details>
-<summary><b>Development journey</b></summary>
 <br/>
 
-I started in full-stack web development - HTML, CSS, JavaScript, Node.js/Express, and Python/Django - building real websites for real businesses in Nairobi. That hands-on client work (and the bugs that came with it) is where most of my skills actually came from. From there I moved into AI engineering, building agent workflows and LLM-powered applications on top of that full-stack foundation.
+## 👤 About Timothy
+
+I'm a full-stack developer turned AI engineer, based in Nairobi. I started with HTML/CSS/JS, Node.js/Express, and Python/Django - building real sites for real Nairobi businesses - and most of what I know came from that hands-on work (and the bugs that came with it). From there I moved into AI engineering: agent workflows, LLM-powered apps, and automation built on top of that full-stack foundation.
+
+<table>
+<tr><td width="50%" valign="top">
+
+**Currently learning**
+- Agentic AI workflows (LangGraph, LangSmith)
+- Practical RAG and prompt engineering
+- System design for production AI apps
+- Ethical, authorized security lab practice
+- Networking & infrastructure fundamentals
+- Quantum computing / Quantum AI (early research)
+
+</td><td width="50%" valign="top">
+
+**How I work**
+- Learn by building, not just reading
+- Ship small, break it, fix it
+- Take on real client requirements over toy projects
+- Iterate in public, improve every round
+
+</td></tr>
+</table>
+
+<details>
+<summary><b>Where I'm headed next</b></summary>
+<br/>
+
+Working toward launching my own SaaS products, contributing to open source, and going deeper into AI agent development - while continuing cybersecurity and quantum AI as long-term research interests rather than current specializations.
 
 </details>
 
-<details>
-<summary><b>What I'm currently learning</b></summary>
 <br/>
 
-- Agentic AI systems and multi-step LLM workflows (LangGraph, LangSmith)
-- Practical RAG and prompt engineering patterns
-- System design for production-grade AI applications
-- Ethical security learning and authorized lab practice (Kali Linux)
-- Networking and infrastructure fundamentals (LAN/WAN, fibre optics, structured cabling)
-- Quantum computing and Quantum AI as an early-stage research interest
+## 🛠️ Tech Matrix
 
-</details>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<details>
-<summary><b>Problem-solving mindset</b></summary>
+**Frontend**
 <br/>
-
-I learn by building, not just reading. I'd rather ship something small, break it, and fix it than wait until I feel "ready." Most of what I know today came from real projects.
-
-</details>
-
-<details>
-<summary><b>Future direction</b></summary>
-<br/>
-
-I'm working toward building and launching my own SaaS products, contributing to open source, and going deeper into AI agent development - while continuing to explore cybersecurity and quantum AI as long-term research interests rather than current specializations.
-
-</details>
-
----
-
-## ⚡ `CURRENT_MISSION`
-
-I build modern software that combines **full-stack development**, **AI/LLM systems**, and **automation** - turning ideas into working products, from AI agents and business tools to responsive web applications and practical digital solutions.
-
-Alongside that, I'm expanding into **systems security**, **networking**, and **Quantum AI research** to understand the technologies shaping the next generation of computing.
-
----
-
-## 💻 `NOW_BUILDING`
-
-```bash
-$ status --current
-
-[BUILDING]   AI agents and LLM-powered applications
-[BUILDING]   Modern full-stack web platforms
-[BUILDING]   AI-driven automation workflows
-[LEARNING]   Agentic AI, system design, cybersecurity
-[EXPLORING]  Quantum computing and Quantum AI
-
-$ next-milestone
-→ Ship a production-ready SaaS product built around AI agents
-```
-
----
-
-## 🛠️ `TECH_MATRIX`
-
-<details>
-<summary><b>Frontend</b></summary>
-<br/>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-</p>
-</details>
 
-<details>
-<summary><b>Backend</b></summary>
+**Backend**
 <br/>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" />
-</p>
-</details>
 
-<details>
-<summary><b>Databases</b></summary>
+**Databases**
 <br/>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,sqlite&theme=dark" />
-</p>
-</details>
 
-<details>
-<summary><b>AI Engineering</b></summary>
+**Design & Dev Tools**
 <br/>
-<p align="center">
-<img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logo=langchain&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/LangSmith-0B1020?style=for-the-badge&logo=langchain&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Google%20Gemini-0B1020?style=for-the-badge&logo=googlegemini&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/RAG%20Systems-0B1020?style=for-the-badge&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0B1020?style=for-the-badge&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/MCP-0B1020?style=for-the-badge&logoColor=00E5FF" />
-</p>
-</details>
-
-<details>
-<summary><b>Security & Systems</b></summary>
-<br/>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>Networking</b></summary>
-<br/>
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/LAN%20%2F%20WAN-0B1020?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fibre%20Optics-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Structured%20Cabling-16803C?style=for-the-badge" />
-</p>
-</details>
-
-<details>
-<summary><b>Design & Developer Tools</b></summary>
-<br/>
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,cloudflare,wordpress&theme=dark" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-</details>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 
-<details>
-<summary><b>Quantum Computing (exploring)</b></summary>
+</td>
+<td valign="top" width="50%">
+
+**AI Engineering**
 <br/>
-<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-0B1020?style=flat-square&logo=langchain&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LangSmith-0B1020?style=flat-square&logo=langchain&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Gemini-0B1020?style=flat-square&logo=googlegemini&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/RAG-0B1020?style=flat-square&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MCP-0B1020?style=flat-square&logoColor=00E5FF" />
+
+**Security & Networking**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Fibre%20Optics-FF6B00?style=flat-square" />
+
+**Quantum AI (exploring)**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-<img src="https://img.shields.io/badge/Quantum%20AI-0B1020?style=for-the-badge&logoColor=00E5FF" />
-</p>
-</details>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 `PROJECT_ARCHIVE`
+<br/>
+
+## 🚀 Project Archive
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 MainAI
-*An AI assistant built around modern agent workflows.*
+AI assistant built around modern agent workflows.
 
-| | |
-|---|---|
-| **Stack** | TypeScript · LangGraph · Gemini · Express · Supabase |
-| **Features** | Long-term conversational memory · AI agent workflows · LangSmith tracing and observability · Custom "Savanna at Golden Hour" interface · Cloud deployment |
-| **Status** | `IN PROGRESS` |
-| **Repo / Demo** | <!-- ADD MAINAI REPO/DEMO LINK HERE --> |
+`TypeScript` `LangGraph` `Gemini` `Express` `Supabase`
+
+- Long-term conversational memory
+- Agent workflows + LangSmith tracing
+- Custom "Savanna at Golden Hour" interface
+- Cloud deployment
+
+**Status:** `IN PROGRESS`
+<!-- ADD MAINAI REPO/DEMO LINK HERE -->
+
+</td>
+<td width="50%" valign="top">
 
 ### 🖨️ Nairobi Printing Studios
-*A digital platform for a Nairobi printing and branding business.*
+Digital platform for a Nairobi printing & branding business.
 
-| | |
-|---|---|
-| **Features** | Responsive business website · Scroll-reveal animations · Touch-friendly carousel · Form validation · Service-focused UX |
-| **Status** | `LIVE` |
-| **Repo / Demo** | <!-- ADD REPO/DEMO LINK HERE --> |
+- Responsive design, scroll-reveal animations
+- Touch-friendly carousel
+- Form validation, service-focused UX
+
+**Status:** `LIVE`
+<!-- ADD REPO/DEMO LINK HERE -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Tech Hub Digital
-*A digital-agency experience built around modern web design.*
+Digital-agency experience built around modern web design.
 
-| | |
-|---|---|
-| **Features** | Dark glassmorphism UI · Branding and digital services · Responsive layouts · SEO-focused structure |
-| **Status** | `LIVE` |
-| **Repo / Demo** | <!-- ADD REPO/DEMO LINK HERE --> |
+- Dark glassmorphism UI
+- Branding & digital services
+- SEO-focused, responsive structure
+
+**Status:** `LIVE`
+<!-- ADD REPO/DEMO LINK HERE -->
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛒 Techaccessories
-*A WordPress ecommerce project built and improved for a live business.*
+WordPress ecommerce project built and improved for a live business.
 
-| | |
-|---|---|
-| **Features** | Product catalog · Storefront management · WordPress customization · Website debugging and repairs · Real client experience |
-| **Status** | `LIVE` |
-| **Repo / Demo** | <!-- ADD REPO/DEMO LINK HERE --> |
+- Product catalog & storefront management
+- WordPress customization
+- Debugging and repair on a live client site
+
+**Status:** `LIVE`
+<!-- ADD REPO/DEMO LINK HERE -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚗 DriveKenya
-*A car-hire platform with a backend booking workflow.*
+Car-hire platform with a backend booking workflow.
 
-| | |
-|---|---|
-| **Stack** | Node.js · Express · SQLite |
-| **Features** | Booking API · Database integration · Admin functionality · Structured backend architecture |
-| **Status** | `IN PROGRESS` |
-| **Repo / Demo** | <!-- ADD REPO/DEMO LINK HERE --> |
+`Node.js` `Express` `SQLite`
+
+- Booking API + database integration
+- Admin functionality
+- Structured backend architecture
+
+**Status:** `IN PROGRESS`
+<!-- ADD REPO/DEMO LINK HERE -->
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 Next Build
-Currently experimenting with AI agents, business automation, SaaS products, intelligent workflows, and LLM-powered tools.
+Currently experimenting with:
 
----
+- AI agents & business automation
+- SaaS products
+- Intelligent, LLM-powered workflows
 
-## 🔬 `AI_RESEARCH_LOG`
+**Status:** `EXPLORING`
 
-<details>
-<summary><b>Current research and learning focus</b></summary>
+</td>
+</tr>
+</table>
+
 <br/>
 
-- **Agentic AI** - building multi-step agent workflows with LangGraph, tracing them with LangSmith
-- **Cybersecurity** - ethical security learning, systems exploration, and authorized lab practice with Kali Linux
-- **Quantum AI** - early-stage research and learning exploration into quantum computing concepts and Qiskit, not a current specialization
+## 🔬 AI Research Log
 
-</details>
+| Area | Focus | Stage |
+|---|---|---|
+| Agentic AI | Multi-step agent workflows with LangGraph, traced via LangSmith | Building |
+| Cybersecurity | Ethical security learning, authorized lab practice with Kali Linux | Learning |
+| Quantum AI | Quantum computing concepts and Qiskit | Early research |
 
----
+<br/>
 
-## 📊 `GITHUB_TELEMETRY`
+## 📊 GitHub Telemetry
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=94A3B8" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=94A3B8" />
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timothyke&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
-</div>
-
-### 🏆 Achievements
-
-<div align="center">
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Timothyke&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
----
+<br/>
 
-## 🗺️ `GROWTH_TIMELINE`
+## 🗺️ Growth Timeline
 
-```text
-Web Development  →  Full-Stack Development  →  AI Applications
-      →  AI Agents  →  SaaS & Advanced Systems  →  Quantum AI Research
+```
+Web Dev → Full-Stack → AI Applications → AI Agents → SaaS & Advanced Systems → Quantum AI Research
 ```
 
----
-
-## 🎯 `MISSION_ROADMAP_2026`
-
-<details>
-<summary><b>AI Engineering</b> - IN PROGRESS</summary>
 <br/>
 
-- [x] Build production-ready AI agents
-- [ ] Deepen RAG and multi-agent system design
-- [ ] Contribute AI tooling to open-source projects
+## 🎯 Mission Roadmap 2026
 
-</details>
+| Track | Status | Details |
+|---|---|---|
+| AI Engineering | 🟡 In Progress | ✅ Built production-ready AI agents · ⬜ Deepen RAG / multi-agent design · ⬜ Open-source AI tooling |
+| SaaS Development | 🔵 Next | ⬜ Launch a useful SaaS product · ⬜ Iterate on real user feedback |
+| System Design | 🟡 In Progress | ⬜ Strengthen system-design fundamentals |
+| Open Source | 🔵 Next | ⬜ Contribute to open-source projects |
+| Cybersecurity | ⚪ Exploring | ⬜ Ethical, authorized lab practice |
+| Quantum AI | ⚪ Exploring | ⬜ Quantum computing & Quantum AI research |
 
-<details>
-<summary><b>SaaS Development</b> - NEXT</summary>
 <br/>
 
-- [ ] Launch a useful SaaS product
-- [ ] Iterate based on real user feedback
-
-</details>
-
-<details>
-<summary><b>System Design</b> - IN PROGRESS</summary>
-<br/>
-
-- [ ] Strengthen system-design knowledge
-- [ ] Apply patterns to production AI applications
-
-</details>
-
-<details>
-<summary><b>Open Source</b> - NEXT</summary>
-<br/>
-
-- [ ] Contribute to open-source projects
-
-</details>
-
-<details>
-<summary><b>Cybersecurity</b> - EXPLORING</summary>
-<br/>
-
-- [ ] Develop stronger cybersecurity skills through ethical, authorized lab practice
-
-</details>
-
-<details>
-<summary><b>Quantum AI</b> - EXPLORING</summary>
-<br/>
-
-- [ ] Explore quantum computing and Quantum AI research
-
-</details>
-
----
-
-## 🧠 `DEVELOPER_PHILOSOPHY`
+## 🧠 Developer Philosophy
 
 ```javascript
 const mission = async () => {
@@ -354,49 +278,34 @@ const mission = async () => {
     await build();
     await solveRealProblems();
     await improve();
-
     ship();
   }
 };
-
 mission();
 ```
 
----
+<br/>
 
-## 📡 `TRANSMISSION_CHANNEL`
+## 📡 Transmission Channel
 
 <div align="center">
 
 <a href="mailto:timothymaina030@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
 </a>
-
 <a href="https://github.com/Timothyke">
   <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
-
 <a href="https://linkedin.com/in/timothy-kageni">
   <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+Most of my skills came from building projects that broke... **...then learning how to fix them.**
 
-<div align="center">
+⭐ Thanks for visiting. The next project is already loading.
 
-### ⚡ `FUN_FACT`
-
-Most of my skills came from building projects that broke...
-**...then learning how to fix them.**
-
-<br/>
-
-⭐ **Thanks for visiting. The next project is already loading.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1020,100:050816&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1020,100:050816&height=120&section=footer" width="100%"/>
 
 </div>
-
-
