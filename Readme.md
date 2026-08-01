@@ -399,34 +399,4 @@ Most of my skills came from building projects that broke...
 
 </div>
 
----
 
-## `IMPLEMENTATION_NOTES`
-
-**External widgets used**
-- `capsule-render.vercel.app` — header/footer banners
-- `readme-typing-svg.demolab.com` — typing animation
-- `komarev.com/ghpvc` — profile view counter
-- `shields.io` — badges and follower count
-- `skillicons.dev` — tech stack icons
-- `github-readme-stats.vercel.app` — stats and top languages
-- `github-readme-streak-stats.herokuapp.com` — streak stats
-- `github-profile-trophy.vercel.app` — achievement trophies
-
-**Widgets that may occasionally experience downtime**
-The `github-readme-streak-stats` (Heroku-hosted) and `github-profile-trophy` services are third-party and sometimes go offline or render slowly. If they break, the rest of the README still displays fine — nothing else depends on them.
-
-**Links you need to replace**
-- Each project's `<!-- ADD REPO/DEMO LINK HERE -->` placeholder in `PROJECT_ARCHIVE`
-- Swap in real repo/demo URLs as they become available; no links were invented
-
-**How to add this README to your GitHub profile**
-1. Create a repository named exactly `Timothyke` (must match your GitHub username)
-2. Add this file as `README.md` in that repo's root
-3. Make the repository public — GitHub will automatically show it on your profile page
-
-**How to verify everything loads correctly**
-1. Push the README and open your profile page in a private/incognito browser window (avoids cached images)
-2. Check that the header/footer banners, typing animation, and view counter render
-3. Click each `<details>` section to confirm it expands/collapses correctly
-4. Confirm the stats, top-languages, streak, and trophy images load — if any show a broken-image icon, wait a minute and refresh (these services sometimes need a moment to generate on first load) or check the corresponding service's status
