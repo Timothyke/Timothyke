@@ -30,8 +30,8 @@ role: Full-Stack Developer & AI Engineer
 currently_building:
   - AI agents and LLM-powered applications
   - Modern full-stack web platforms
-  - AI automations for businesses
-  - Practical software for Nairobi businesses
+  - AI automations.
+  - Practical software.
 
 exploring:
   - Agentic AI
