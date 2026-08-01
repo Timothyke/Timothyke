@@ -48,7 +48,7 @@ NEXT:      SAAS PRODUCTS
 <summary><b>Development journey</b></summary>
 <br/>
 
-I started in full-stack web development — HTML, CSS, JavaScript, Node.js/Express, and Python/Django — building real websites for real businesses in Nairobi. That hands-on client work (and the bugs that came with it) is where most of my skills actually came from. From there I moved into AI engineering, building agent workflows and LLM-powered applications on top of that full-stack foundation.
+I started in full-stack web development - HTML, CSS, JavaScript, Node.js/Express, and Python/Django - building real websites for real businesses in Nairobi. That hands-on client work (and the bugs that came with it) is where most of my skills actually came from. From there I moved into AI engineering, building agent workflows and LLM-powered applications on top of that full-stack foundation.
 
 </details>
 
@@ -69,7 +69,7 @@ I started in full-stack web development — HTML, CSS, JavaScript, Node.js/Expre
 <summary><b>Problem-solving mindset</b></summary>
 <br/>
 
-I learn by building, not just reading. I'd rather ship something small, break it, and fix it than wait until I feel "ready." Most of what I know today came from real projects for real clients — printing businesses, retail shops, car-hire platforms — where the requirements were real and the deadlines were real.
+I learn by building, not just reading. I'd rather ship something small, break it, and fix it than wait until I feel "ready." Most of what I know today came from real projects.
 
 </details>
 
@@ -77,7 +77,7 @@ I learn by building, not just reading. I'd rather ship something small, break it
 <summary><b>Future direction</b></summary>
 <br/>
 
-I'm working toward building and launching my own SaaS products, contributing to open source, and going deeper into AI agent development — while continuing to explore cybersecurity and quantum AI as long-term research interests rather than current specializations.
+I'm working toward building and launching my own SaaS products, contributing to open source, and going deeper into AI agent development - while continuing to explore cybersecurity and quantum AI as long-term research interests rather than current specializations.
 
 </details>
 
@@ -85,7 +85,7 @@ I'm working toward building and launching my own SaaS products, contributing to 
 
 ## ⚡ `CURRENT_MISSION`
 
-I build modern software that combines **full-stack development**, **AI/LLM systems**, and **automation** — turning ideas into working products, from AI agents and business tools to responsive web applications and practical digital solutions.
+I build modern software that combines **full-stack development**, **AI/LLM systems**, and **automation** - turning ideas into working products, from AI agents and business tools to responsive web applications and practical digital solutions.
 
 Alongside that, I'm expanding into **systems security**, **networking**, and **Quantum AI research** to understand the technologies shaping the next generation of computing.
 
@@ -248,9 +248,9 @@ Currently experimenting with AI agents, business automation, SaaS products, inte
 <summary><b>Current research and learning focus</b></summary>
 <br/>
 
-- **Agentic AI** — building multi-step agent workflows with LangGraph, tracing them with LangSmith
-- **Cybersecurity** — ethical security learning, systems exploration, and authorized lab practice with Kali Linux
-- **Quantum AI** — early-stage research and learning exploration into quantum computing concepts and Qiskit, not a current specialization
+- **Agentic AI** - building multi-step agent workflows with LangGraph, tracing them with LangSmith
+- **Cybersecurity** - ethical security learning, systems exploration, and authorized lab practice with Kali Linux
+- **Quantum AI** - early-stage research and learning exploration into quantum computing concepts and Qiskit, not a current specialization
 
 </details>
 
@@ -292,7 +292,7 @@ Web Development  →  Full-Stack Development  →  AI Applications
 ## 🎯 `MISSION_ROADMAP_2026`
 
 <details>
-<summary><b>AI Engineering</b> — IN PROGRESS</summary>
+<summary><b>AI Engineering</b> - IN PROGRESS</summary>
 <br/>
 
 - [x] Build production-ready AI agents
@@ -302,7 +302,7 @@ Web Development  →  Full-Stack Development  →  AI Applications
 </details>
 
 <details>
-<summary><b>SaaS Development</b> — NEXT</summary>
+<summary><b>SaaS Development</b> - NEXT</summary>
 <br/>
 
 - [ ] Launch a useful SaaS product
@@ -311,7 +311,7 @@ Web Development  →  Full-Stack Development  →  AI Applications
 </details>
 
 <details>
-<summary><b>System Design</b> — IN PROGRESS</summary>
+<summary><b>System Design</b> - IN PROGRESS</summary>
 <br/>
 
 - [ ] Strengthen system-design knowledge
@@ -320,7 +320,7 @@ Web Development  →  Full-Stack Development  →  AI Applications
 </details>
 
 <details>
-<summary><b>Open Source</b> — NEXT</summary>
+<summary><b>Open Source</b> - NEXT</summary>
 <br/>
 
 - [ ] Contribute to open-source projects
@@ -328,7 +328,7 @@ Web Development  →  Full-Stack Development  →  AI Applications
 </details>
 
 <details>
-<summary><b>Cybersecurity</b> — EXPLORING</summary>
+<summary><b>Cybersecurity</b> - EXPLORING</summary>
 <br/>
 
 - [ ] Develop stronger cybersecurity skills through ethical, authorized lab practice
@@ -336,7 +336,7 @@ Web Development  →  Full-Stack Development  →  AI Applications
 </details>
 
 <details>
-<summary><b>Quantum AI</b> — EXPLORING</summary>
+<summary><b>Quantum AI</b> - EXPLORING</summary>
 <br/>
 
 - [ ] Explore quantum computing and Quantum AI research
