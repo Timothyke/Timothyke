@@ -1,225 +1,327 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Timothy%20Maina&fontSize=50&fontColor=00E7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Nairobi%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:00E5FF&height=230&section=header&text=Timothy%20Maina&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1200&color=00E7FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents.;Exploring+Quantum+AI+Research.;Securing+Systems+with+Kali+Linux.;Creating+Products+People+Actually+Use.;Shipping+One+Project+at+a+Time." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+AI+Agents+and+Intelligent+Systems.;Creating+Full-Stack+Products+That+Solve+Real+Problems.;Exploring+LLMs%2C+Security%2C+and+Quantum+Computing.;Learning+by+Building.+Improving+by+Shipping." />
 
-<br>
+<br/>
 
-> *"I don't just write code. I build products that solve real problems."*
+<a href="https://github.com/Timothyke">
+  <img src="https://komarev.com/ghpvc/?username=Timothyke&label=PROFILE+VIEWS&color=00E5FF&style=flat-square" alt="Profile views"/>
+</a>
+<img src="https://img.shields.io/github/followers/Timothyke?label=FOLLOWERS&style=flat-square&color=00E5FF&labelColor=050816" alt="GitHub followers"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00E5FF?style=flat-square&labelColor=050816" alt="Status"/>
 
-<br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Timothyke&label=Profile%20Views&color=0ff&style=flat" />
-<img src="https://img.shields.io/github/followers/Timothyke?label=Followers&style=social" />
+> ### “I don’t just write code. I build useful products, intelligent systems, and solutions to real problems.”
 
 </div>
 
 ---
 
-# 🚀 Current Mission
+## 🧬 `SYSTEM_PROFILE`
 
-I'm a developer obsessed with building useful software, personalized AI/LLM tools, and understanding what comes next in computing - from full-stack apps to quantum AI research.
+```yaml
+name: Timothy Maina
+location: Nairobi, Kenya 🇰🇪
+role: Full-Stack Developer & AI Engineer
 
-Right now I'm focused on combining **Full-Stack Development**, **Large Language Models**, and **Systems/Security** work to build tools that automate work, fix real machines, and push into emerging AI frontiers.
+currently_building:
+  - AI agents and LLM-powered applications
+  - Modern full-stack web platforms
+  - AI automations for businesses
+  - Practical software for Nairobi businesses
 
----
+exploring:
+  - Agentic AI
+  - System design
+  - Cybersecurity
+  - Quantum computing and Quantum AI
 
-# ⚡ Currently Building
-
-- 🧠 AI Agents using LangGraph & Gemini
-- 🌐 Modern Full-Stack Web Apps
-- 🏢 Software for Nairobi Businesses
-- 🛍 Shopify Experiences
-- 🤖 AI Automations
-- 🔐 Security tooling & pentesting practice on Kali Linux
-- ⚛️ Quantum AI research explorations
-
----
-
-# 🛠 Tech Stacks
-
-### Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,django,nodejs,express" />
-</p>
-
-### Databases & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite,firebase" />
-</p>
-
-### AI & Quantum AI Research
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-<img src="https://cdn.simpleicons.org/qiskit/6929C4" height="48" alt="Qiskit / Quantum AI Research" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangSmith-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00A3E0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
-</p>
-
-### Security & Systems
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="48" alt="Kali Linux" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Computer%20Repair%20%26%20Maintenance-4B4B4B?style=flat-square" />
-</p>
-
-### Networking & Infrastructure
-<p>
-<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/LAN%2FWAN-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fibre%20Optic-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Structured%20Cabling-2E8B57?style=for-the-badge" />
-</p>
-
-### Design & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,cloudflare,wordpress" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+mindset:
+  - Learn by building
+  - Solve real problems
+  - Ship continuously
+  - Improve every iteration
+```
 
 ---
 
-# 🌟 Featured Projects
+## ⚡ `CURRENT_MISSION`
+
+I build modern software that combines **full-stack development**, **AI/LLM systems**, and **automation**.
+
+My focus is turning ideas into useful products—from intelligent AI agents and business tools to responsive web applications and practical digital solutions.
+
+I’m also expanding my knowledge in **systems security**, **networking**, and **Quantum AI research** to understand the technologies shaping the next generation of computing.
+
+---
+
+## 🛠️ `TECH_STACK`
+
+### 💻 Core Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,express,django&theme=dark" />
+</p>
+
+### 🗄️ Databases & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,sqlite&theme=dark" />
+</p>
+
+### 🧠 AI Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logo=langchain&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/LangSmith-0B1020?style=for-the-badge&logo=langchain&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-0B1020?style=for-the-badge&logo=googlegemini&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-0B1020?style=for-the-badge&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0B1020?style=for-the-badge&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/MCP-0B1020?style=for-the-badge&logoColor=00E5FF" />
+</p>
+
+### ⚛️ Quantum AI Exploration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum%20Computing-0B1020?style=for-the-badge&logoColor=00E5FF" />
+</p>
+
+### 🔐 Security, Systems & Networking
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/LAN%20%2F%20WAN-0B1020?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fibre%20Optics-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Structured%20Cabling-16803C?style=for-the-badge" />
+</p>
+
+### 🎨 Tools & Creative Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,cloudflare,wordpress&theme=dark" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 🚀 `FEATURED_PROJECTS`
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🤖 MainAI
-An AI assistant built with
-**TypeScript • LangGraph • Gemini • Express • Supabase**
 
-- AI conversations with long-term memory
-- LangSmith tracing
-- Distinctive "savanna at golden hour" UI
-- Deployed on Render
+An intelligent AI assistant designed around modern agent workflows.
 
-</td>
-<td width="50%">
+**Stack**
 
-### 🖨 Nairobi Printing Studios
-Printing & branding site for a Nairobi business
+`TypeScript` · `LangGraph` · `Gemini` · `Express` · `Supabase`
 
-- Scroll-reveal animations
-- Touch-friendly responsive carousel
-- Full form validation
+**Highlights**
+
+* Long-term conversational memory
+* AI agent workflows
+* LangSmith tracing and observability
+* Custom “Savanna at Golden Hour” interface
+* Cloud deployment
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🖨️ Nairobi Printing Studios
+
+A modern digital platform for a Nairobi printing and branding business.
+
+**Highlights**
+
+* Responsive business website
+* Scroll-reveal animations
+* Touch-friendly interfaces
+* Form validation
+* Clear service-focused UX
+
+</td>
+
 </tr>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 💻 Tech Hub Digital
-Digital agency site for a Nairobi tech studio
 
-- Glassmorphism, dark UI
-- Shopify & branding services
-- SEO optimized
+A futuristic digital-agency experience built around modern web design.
+
+**Highlights**
+
+* Dark glassmorphism UI
+* Branding and digital services
+* Responsive layouts
+* SEO-focused structure
+* Modern visual identity
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🛒 Techaccessories
-Ecommerce site built on WordPress
 
-- Product catalog & storefront on WordPress
-- Debugged and repaired for a live client
-- First hands-on WordPress build
+A WordPress ecommerce project built and improved for a live business.
+
+**Highlights**
+
+* Product catalog
+* Storefront management
+* WordPress customization
+* Website debugging and repairs
+* Practical client experience
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚗 DriveKenya
-Car hire platform
 
-- Express/Node.js backend
-- SQLite database + booking API
-- Admin panel
+A car-hire platform with a backend booking workflow.
+
+**Stack**
+
+`Node.js` · `Express` · `SQLite`
+
+**Highlights**
+
+* Booking API
+* Database integration
+* Admin functionality
+* Structured backend architecture
 
 </td>
-<td width="50%"></td>
+
+<td width="50%" valign="top">
+
+### 🧠 Next Build...
+
+Currently experimenting with:
+
+* AI agents
+* Business automation
+* SaaS products
+* Intelligent workflows
+* LLM-powered tools
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🏆 Trophies
+## 📊 `GITHUB_ANALYTICS`
 
-<p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Timothyke&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF" />
 
-# 📈 GitHub Activity
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E5FF" />
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Timothyke&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timothyke&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<br/><br/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Timothyke&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Timothyke&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+
+</div>
 
 ---
 
-# 🎯 2026 Goals
+## 🏆 `ACHIEVEMENTS`
 
-- ✅ Build production AI agents
-- 🚀 Launch SaaS products
-- 🌍 Contribute to Open Source
-- 📚 Master System Design
-- 🤖 Become an AI Engineer
-- ⚛️ Go deeper into Quantum AI research
-- 🔐 Level up offensive/defensive security skills with Kali Linux
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Timothyke&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
 
 ---
 
-# 💭 Philosophy
+## 🎯 `MISSION_2026`
 
-```javascript
-while (alive) {
-    learn();
-    build();
-    improve();
-    repeat();
-}
+```text
+[✓] Build production-ready AI agents
+[→] Launch useful SaaS products
+[→] Contribute to open-source projects
+[→] Strengthen system-design knowledge
+[→] Grow as an AI Engineer
+[→] Explore Quantum AI and quantum computing
+[→] Develop stronger cybersecurity skills
+[→] Build technology that creates real value
 ```
 
 ---
 
-# 🌍 Let's Connect
+## 🧠 `DEVELOPER_PHILOSOPHY`
 
-<p>
-<a href="mailto:timothymaina030@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Timothyke">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com/in/timothy-kageni">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+```javascript
+const mission = async () => {
+  while (alive) {
+    await learn();
+    await build();
+    await solveRealProblems();
+    await improve();
+
+    ship();
+  }
+};
+
+mission();
+```
+
+---
+
+## 🌐 `CONNECT`
 
 <div align="center">
 
-### ⚡ Fun Fact
-Most of my skills came from building projects that broke... then fixing them.
+<a href="mailto:timothymaina030@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+</a>
 
-⭐ Thanks for stopping by.
+<a href="https://github.com/Timothyke">
+  <img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/timothy-kageni">
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ `FUN_FACT`
+
+Most of my skills came from building projects that broke...
+
+**...then learning how to fix them.**
+
+<br/>
+
+⭐ **Thanks for visiting. The next project is already loading.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0B1F3A,100:050816&height=130&section=footer" width="100%"/>
 
 </div>
