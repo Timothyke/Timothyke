@@ -25,6 +25,7 @@
 <br/>
 
 <a href="#-about-timothy">About</a> ·
+<a href="#-tech-matrix">Tech Matrix</a> ·
 <a href="#-project-archive">Projects</a> ·
 <a href="#-ai-research-log">Research</a> ·
 <a href="#-github-telemetry">GitHub Telemetry</a> ·
@@ -37,7 +38,7 @@
 
 ## 👤 About Timothy
 
-I'm a full-stack developer turned AI engineer, based in Nairobi. I started by building real sites for real Nairobi businesses, and most of what I know came from that hands-on work (and the bugs that came with it). From there I moved into AI engineering - agent workflows, LLM-powered apps, and automation built on top of that foundation.
+I'm a full-stack developer turned AI engineer, based in Nairobi. I started by building real sites for real Nairobi businesses, and most of what I know came from that hands-on work (and the bugs that came with it). From there I moved into AI engineering — agent workflows, LLM-powered apps, and automation built on top of that foundation.
 
 <table>
 <tr><td width="50%" valign="top">
@@ -64,9 +65,61 @@ I'm a full-stack developer turned AI engineer, based in Nairobi. I started by bu
 <summary><b>Where I'm headed next</b></summary>
 <br/>
 
-Working toward launching my own SaaS products, contributing to open source, and going deeper into AI agent development - while continuing cybersecurity and quantum AI as long-term research interests rather than current specializations.
+Working toward launching my own SaaS products, contributing to open source, and going deeper into AI agent development — while continuing cybersecurity and quantum AI as long-term research interests rather than current specializations.
 
 </details>
+
+<br/>
+
+## 🛠️ Tech Matrix
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,sqlite&theme=dark" />
+
+**Design & Dev Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,cloudflare,wordpress&theme=dark" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**AI Engineering**
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-0B1020?style=flat-square&logo=langchain&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LangSmith-0B1020?style=flat-square&logo=langchain&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Gemini-0B1020?style=flat-square&logo=googlegemini&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/RAG-0B1020?style=flat-square&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/MCP-0B1020?style=flat-square&logoColor=00E5FF" />
+
+**Security & Networking**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Fibre%20Optics-FF6B00?style=flat-square" />
+
+**Quantum AI (exploring)**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -86,7 +139,7 @@ AI assistant built around modern agent workflows, with long-term conversational 
 <td width="50%" valign="top">
 
 ### 🖨️ Nairobi Printing Studios
-Digital platform for a Nairobi printing & branding business - responsive design, scroll-reveal animations, touch-friendly carousel, form validation.
+Digital platform for a Nairobi printing & branding business — responsive design, scroll-reveal animations, touch-friendly carousel, form validation.
 
 **Status:** `LIVE`
 <!-- ADD REPO/DEMO LINK HERE -->
@@ -97,7 +150,7 @@ Digital platform for a Nairobi printing & branding business - responsive design,
 <td width="50%" valign="top">
 
 ### 💻 Tech Hub Digital
-Digital-agency experience built around modern web design - dark glassmorphism UI, SEO-focused, fully responsive.
+Digital-agency experience built around modern web design — dark glassmorphism UI, SEO-focused, fully responsive.
 
 **Status:** `LIVE`
 <!-- ADD REPO/DEMO LINK HERE -->
@@ -106,7 +159,7 @@ Digital-agency experience built around modern web design - dark glassmorphism UI
 <td width="50%" valign="top">
 
 ### 🛒 Techaccessories
-WordPress ecommerce project built and improved for a live business - product catalog, storefront management, debugging and repair.
+WordPress ecommerce project built and improved for a live business — product catalog, storefront management, debugging and repair.
 
 **Status:** `LIVE`
 <!-- ADD REPO/DEMO LINK HERE -->
@@ -117,7 +170,7 @@ WordPress ecommerce project built and improved for a live business - product cat
 <td width="50%" valign="top">
 
 ### 🚗 DriveKenya
-Car-hire platform with a backend booking workflow - booking API, database integration, admin functionality.
+Car-hire platform with a backend booking workflow — booking API, database integration, admin functionality.
 
 **Status:** `IN PROGRESS`
 <!-- ADD REPO/DEMO LINK HERE -->
