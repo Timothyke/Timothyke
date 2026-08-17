@@ -219,3 +219,33 @@ Currently experimenting with AI agents, business automation, SaaS products, and 
 <br/>
 
 ## 🗺️ Growth Timeline
+
+
+<br/>
+
+## 🎯 Mission Roadmap 2026
+
+| Track | Status | Details |
+|---|---|---|
+| AI Engineering | 🟡 In Progress | ✅ Built production-ready AI agents · ⬜ Deepen multi-agent design · ⬜ Open-source AI tooling |
+| SaaS Development | 🔵 Next | ⬜ Launch a useful SaaS product · ⬜ Iterate on real user feedback |
+| System Design | 🟡 In Progress | ⬜ Strengthen system-design fundamentals |
+| Open Source | 🔵 Next | ⬜ Contribute to open-source projects |
+| Cybersecurity | ⚪ Exploring | ⬜ Ethical, authorized lab practice |
+| Quantum AI | ⚪ Exploring | ⬜ Quantum computing & Quantum AI research |
+
+<br/>
+
+## 🧠 Developer Philosophy
+
+```javascript
+const mission = async () => {
+  while (alive) {
+    await learn();
+    await build();
+    await solveRealProblems();
+    await improve();
+    ship();
+  }
+};
+mission();
