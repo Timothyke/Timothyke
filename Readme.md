@@ -171,7 +171,7 @@ Working toward launching my own SaaS products, contributing to open source, and 
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timothyke&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+  <img src="https://streak-stats.demolab.com/?user=Timothyke&theme=tokyonight&hide_border=true&background=00000000&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
 
   <br/>
 
@@ -179,7 +179,7 @@ Working toward launching my own SaaS products, contributing to open source, and 
 
   <br/><br/>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Timothyke&theme=react-dark&bg_color=00000000&color=00E5FF&line=00E5FF&point=00E5FF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Timothyke&theme=react-dark&bg_color=00000000&color=00E5FF&line=00E5FF&point=00E5FF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
