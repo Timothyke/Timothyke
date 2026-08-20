@@ -42,7 +42,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 
-I'm a full-stack developer turned AI engineer, based in Nairobi. I started by building real sites for real Nairobi businesses, and most of what I know came from that hands-on work (and the bugs that came with it). From there I moved into AI engineering — agent workflows, LLM-powered apps, and automation built on top of that foundation.
+I'm a full-stack developer turned AI engineer, based in Nairobi. I started by building real sites for real Nairobi businesses, and most of what I know came from that hands-on work (and the bugs that came with it). From there I moved into AI engineering - agent workflows, LLM-powered apps, and automation built on top of that foundation.
 
 ### 🌲 Currently Learning
 - 🌿 Agentic AI workflows and multi-step LLM pipelines
@@ -61,7 +61,7 @@ I'm a full-stack developer turned AI engineer, based in Nairobi. I started by bu
 <summary><b>🌲 Where I'm headed next</b></summary>
 <br/>
 
-Working toward launching my own SaaS products, contributing to open source, and going deeper into AI agent development — while continuing cybersecurity and quantum AI as long-term research interests rather than current specializations.
+Working toward launching my own SaaS products, contributing to open source, and going deeper into AI agent development - while continuing cybersecurity and quantum AI as long-term research interests rather than current specializations.
 
 </details>
 
