@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1020,100:00E5FF&height=220&section=header&text=Timothy%20Maina&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Nairobi%2C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=58&descSize=17" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=🌿+Building+AI+agents+and+full-stack+products;🌊+Exploring+LangGraph%2C+RAG%2C+and+LLM+workflows;🌲+Learning+security%2C+networking%2C+quantum+AI;🌱+Learning+by+building.+Improving+by+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=🌿+Building+AI+agents+and+full-stack+products;🌊+Exploring+LangGraph%2C+RAG%2C+and+LLM+workflows;🌲+Learning+security%2C+networking%2C+quantum+AI;🌱+Learning+by+building.+Improving+by+shipping." />
 
   <br/>
 
